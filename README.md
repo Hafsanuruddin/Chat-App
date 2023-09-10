@@ -9,3 +9,7 @@ Usage
 1.Install the required dependencies: npm install
 2.Start the application: npm run dev
 3.Access the chat interface at localhost:3000 in your web browser
+
+
+install modules which are not presents:
+add commands like npm install socket.io moments 
